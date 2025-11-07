@@ -35,7 +35,7 @@ Feel free to open an issue or submit a pull request.
 **<Muhammad Anas Sajid>**
  **[GitHub Profile](https://github.com/Muhammad-11Anas)**
 
- **“Focus on quality, not quntity.”**
+ **“Focus on quality, not quantity.”**
 
 ---
 
