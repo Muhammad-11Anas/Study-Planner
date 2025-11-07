@@ -1,0 +1,35 @@
+{
+    "name": "study_planner",
+    "short_name": "study_planner",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Study Planner is a clean and intuitive productivity app designed to help students organize and track their daily study goals. The app features a modern dashboard layout with a SliverAppBar for dynamic scrolling effects, a prominent “Today’s Focus” card to highlight key subjects or goals, and a scrollable task list for managing study sessions efficiently. With its elegant UI and simple navigation, Study Planner provides a smooth user experience, combining functionality and design to boost focus and productivity throughout the day.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
