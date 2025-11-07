@@ -20,8 +20,8 @@ It features a sliver app bar, a stacked **“Today’s Focus”** card, and a sc
 - **Dart** — Modern, expressive, and fast.
 
 
-  ## Preview
-![Study Planner Preview](<img width="1911" height="918" alt="image" src="https://github.com/user-attachments/assets/81d2fe6a-4ce0-46d6-acc0-469c816364a4" />)
+ ## Preview
+![Study Planner Preview](https://github.com/Muhammad-11Anas/Study-Planner/blob/efbdf6fcddf83d0761a59b6d5552a2d267149fcc/Screenshot%202025-11-07%20230605.png)
 
 
 ## Contributing
